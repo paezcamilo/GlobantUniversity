@@ -1,0 +1,5 @@
+Name,idProfessor,idCourse,TypeOfCOntract,ExpYears,Salary,HoursperWeek
+Romulo Caicedo,P-1,C-1,true,5,5500.0,0,
+Leonardo Davinci,P-2,C-2,false,10,6000.0,6,
+Miguel Angel,P-3,C-3,true,4,4400.0,0,
+Sears Semanski,P-4,C-5,false,3,8000.0,8,
